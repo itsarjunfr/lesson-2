@@ -1,0 +1,11 @@
+birthdays = {'ann':'25/08', 'bob':'15/12', 'charlie':'03/03', 'dexter':'09/04', 'esther':'03/11'}
+ann = birthdays.get('ann')
+bob = birthdays.get('bob')
+charlie = birthdays.get('charlie')
+dexter = birthdays.get('dexter')
+esther = birthdays.get('esther')
+print(ann)
+print(bob)
+print(charlie)
+print(dexter)
+print (esther)
